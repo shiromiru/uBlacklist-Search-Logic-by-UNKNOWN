@@ -92,3 +92,4 @@ https://www.nhk-cs.jp/
 *://*.yamachi-choose.com/*
 *://*.national-mart.jp/*
 *://*.kitchen-hasegawa.com/*
+*://*.news.ameba.jp/
