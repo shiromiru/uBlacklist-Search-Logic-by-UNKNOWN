@@ -1,4 +1,4 @@
-# uBlacklist-Search-Logic-by-UNKNOWN
+# uBlacklist Search Logic by UNKNOWN
 *://game8.jp/*
 *://appmedia.jp/*
 *://getnine.co.jp/*
