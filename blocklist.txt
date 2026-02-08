@@ -107,3 +107,6 @@
 *://*.yamachi-choose.com/*
 *://*.national-mart.jp/*
 *://*.kitchen-hasegawa.com/*
+
+*://*.costcotukuba.com/*
+*://*.mitok.info/*
