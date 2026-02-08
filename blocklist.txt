@@ -85,6 +85,7 @@
 *://*.soctoc.jp/*
 *://*.numa2.jp/*
 *://*.zimosh.com/*
+*://*.cake-news.com/*
 
 ! ===== 企業・技術・メモ系 =====
 *://*.sec-mynote.com/*
