@@ -1,5 +1,5 @@
 # uBlacklist Search Logic by UNKNOWN
-! ===== ゲーム攻略・ソシャゲ攻略 =====
+
 *://game8.jp/*
 *://appmedia.jp/*
 *://getnine.co.jp/*
@@ -10,11 +10,11 @@
 *://gamerch.com/*
 *://shinnyu1-guide.com/*
 
-! ===== SNS =====
+
 @*://twitter.com/*
 *://*.facebook.com/*
 
-! ===== NHK 系 =====
+
 *://*.nhk.or.jp/*
 *://plus.nhk.jp/*
 *://nhk.or.jp/*
@@ -29,7 +29,7 @@
 *://*.nhk-ed.co.jp/*
 *://*.web.nhk/*
 
-! ===== ニュース・情報メディア =====
+
 *://*.kuruma-news.jp/*
 *://*.bestcarweb.jp/*
 *://*.trafficnews.jp/*
@@ -48,13 +48,13 @@
 *://*.hpplus.jp/*
 *://*.biglobe.ne.jp/*
 
-! ===== Yahoo / ポータル =====
+
 *://*.news.yahoo.co.jp/expert**
 *://*.shopping.yahoo.co.jp/**
 *://*.carview.co.jp/*
 *://*.lycorp.co.jp/*
 
-! ===== EC・チケット・サービス =====
+
 *://*.pia.co.jp/*
 *://*.pia.jp/*
 *://*.cake.jp/*
@@ -67,7 +67,7 @@
 *://*.poke-memo.com/*
 *://*.pokemongo-get.com/*
 
-! ===== ブログ・個人メディア =====
+
 *://*.ameblo.jp/*
 *://*.news.ameba.jp/
 *://*.enfant.media/*
@@ -87,13 +87,13 @@
 *://*.zimosh.com/*
 *://*.cake-news.com/*
 
-! ===== 企業・技術・メモ系 =====
+
 *://*.sec-mynote.com/*
 *://*.reinforz.co.jp/*
 *://*.mi.com/*
 *://*.shiga2.jp/*
 
-! ===== 地域・特化メディア =====
+
 *://*.nara.goguynet.jp/*
 *://*.ibaraki.goguynet.jp/*
 *://*.liverny.jp/*
