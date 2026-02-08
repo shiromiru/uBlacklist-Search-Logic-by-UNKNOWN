@@ -52,6 +52,7 @@
 *://*.news.yahoo.co.jp/expert**
 *://*.shopping.yahoo.co.jp/**
 *://*.carview.co.jp/*
+*://*.lycorp.co.jp/*
 
 ! ===== EC・チケット・サービス =====
 *://*.pia.co.jp/*
