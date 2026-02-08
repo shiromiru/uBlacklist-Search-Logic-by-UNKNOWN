@@ -15,7 +15,7 @@
 *://*.facebook.com/*
 
 ! ===== NHK 系 =====
-*://nhk.jp/*
+*://*.nhk.jp/*
 *://plus.nhk.jp/*
 *://nhk.or.jp/*
 *://nhk-cs.jp/*
