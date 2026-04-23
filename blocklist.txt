@@ -110,3 +110,5 @@
 
 *://*.costcotukuba.com/*
 *://*.mitok.info/*
+*://*.color-mall.com/*
+*://*.sfbc.co.jp/*
